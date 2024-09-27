@@ -1,4 +1,4 @@
-# Practical 2: Android Development Environment Setup and Basic Components
+# Practical 2: Android Development Environment Setup and Basic Components.
 
  **1. Downloading and Installing Android Studio**
    - Download Android Studio : Visit the [official Android Studio download page](https://developer.android.com/studio) and download the latest version for your operating system.
